@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=OrangeTemple
+comment0.text=\n\ One\ of\ the\ Upgrades\ that\ a\ player\ can\ buy\ to\ increase\ idle\ oranges.\n\ \n\ @author\ Tan\n\ @version\ January\ 2021\n
+comment1.params=
+comment1.target=OrangeTemple()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

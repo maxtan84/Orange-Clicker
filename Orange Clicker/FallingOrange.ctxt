@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=FallingOrange
+comment0.text=\n\ The\ orange\ that\ falls\ when\ you\ click\ the\ main\ orange.\n\ \n\ @author\ Tan\ \n\ @version\ January\ 2021\n
+comment1.params=
+comment1.target=FallingOrange()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Settings
+comment0.text=\n\ Where\ the\ player\ finds\ their\ statistics\ and\ achievements.\n\ \n\ @author\ Tan\ \n\ @version\ January\ 2021\n
+comment1.params=
+comment1.target=Settings()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Settings.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ goMainWorld()
+numComments=4

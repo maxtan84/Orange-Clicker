@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=Orange
+comment0.text=\n\ The\ main\ orange\ that\ is\ clicked\ to\ earn\ more\ oranges\ in\ the\ game.\n\ \n\ @author\ Tan\n\ @version\ January\ 2021\n
+comment1.params=
+comment1.target=Orange()
+comment2.params=
+comment2.target=void\ act()
+numComments=3

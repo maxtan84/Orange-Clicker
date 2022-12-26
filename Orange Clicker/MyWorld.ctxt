@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=MyWorld
+comment0.text=\n\ Where\ the\ main\ clicking\ and\ buying\ takes\ place.\ Can\ access\ settings\ from\ here.\n\ \n\ @author\ Tan\ \n\ @version\ January\ 2021\n
+comment1.params=
+comment1.target=MyWorld()
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\n\ \n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkSettings()
+comment4.params=
+comment4.target=void\ orangeIsPressed()
+comment4.text=\n\ Animation\ and\ changing\ total\ clicks\ only**\n\ checking\ if\ the\ orange\ is\ pressed,\ animates\ it\ if\ pressed\n
+comment5.params=
+comment5.target=boolean\ click()
+comment5.text=\n\ Adding\ to\ score\ when\ the\ orange\ is\ clicked\ \n\ Checks\ for\ powerclicker\ upgrades\ \n
+comment6.params=
+comment6.target=void\ buyItem()
+comment6.text=\n\ This\ method\ is\ used\ \ when\ the\ user\ buys\ an\ Item.\n\ It\ shows\ what\ the\ upgrade\ does\ and\ sets\ the\ cost\ of\ item\ to\ a\ new\ cost\n\ Depending\ on\ what\ upgrades,\ either\ the\ Idle\ Oranges\ increase\n\ or\ the\ click\ power\ increases\ and\ it\ plays\ a\ sound\n
+comment7.params=
+comment7.target=void\ idleOranges()
+comment7.text=\n\ Checks\ to\ see\ if\ any\ upgrades\ have\ been\ bought\ and\ adds\ to\ score\ accordingly\n\ Only\ for\ the\ Idle\ Oranges,\ adds\ every\ second\ depending\ on\ when\ the\ upgrade\n\ was\ bought\n
+comment8.params=
+comment8.target=void\ fallingOrange()
+comment9.params=start\ end
+comment9.target=int\ getRandomInt(int,\ int)
+numComments=10

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=BackArrow
+comment0.text=\n\ Backarrow\ to\ return\ to\ main\ world.\n\ \n\ @author\ Tan\ \n\ @version\ January\ 2021\n
+comment1.params=
+comment1.target=BackArrow()
+comment2.params=
+comment2.target=void\ act()
+numComments=3
